@@ -1,0 +1,5 @@
+Der er 2 ting, der generelt er “svært” for nye i virtualisring de første 2 dage….
+
+ – At køre Nested Hypervisor, kræver enten en lille tegning eller at man lige ser “bort” fra det ene lag.
+
+ – Virtuelle netkort, bridge m.m….. det skal nok komme, vi andre bliver også nogen gange rundtosset :-)
