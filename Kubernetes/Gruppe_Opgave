@@ -1,0 +1,12 @@
+I skal som gruppe vælge HVILKEN Kubernetes I vil sætte op.
+
+Så gruppen skal undersøge hvilke muligheder, for og imod og hvorfor vælge det ene frem for det andet.
+
+Gruppens valg skal afstemmes med JCA inden i påbegynder opgaven!
+
+Krav:
+1. Skal være en cluster løsning, så alt må IKKE køre på en og samme VM.
+2. Overvej samspillet med Proxmox HA.
+3. Løsningen skal indeholde et Dashboard.
+4. Der skal minimun køre 50 containere/pods i jeres Kubernetes løsning.
+5. Opgaven har en tidsbegrænsning til onsdag kl 12 – Opsat og klar til visning til andre :-)
